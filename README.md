@@ -1,4 +1,4 @@
-#### extractMatrixComponents
+#### matrixComponents
 Maya plugin with nodes that extract transform components from a matrix.
 
 #### Description
