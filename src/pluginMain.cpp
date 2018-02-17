@@ -40,7 +40,7 @@ Maya plugin with nodes that return individual transform components from a matrix
 #include <maya/MTypeId.h>
 
 const char* AUTHOR               = "Ryan Porter";
-const char* VERSION              = "0.1.0";
+const char* VERSION              = "1.0.0";
 const char* REQUIRED_API_VERSION = "Any";
 
 MString MatrixToEulerRotation::NODE_NAME = "matrixToEuler";
